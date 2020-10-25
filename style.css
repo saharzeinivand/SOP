@@ -1,0 +1,42 @@
+*{ padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    position: fixed;
+    direction: rtl;
+    width:100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+    background: #03d8ad;
+    font-size: larger;
+    font-family: "IRANSansWeb", sans-serif;
+}
+.center{
+    display: block ;
+    padding: 3%;
+}/*class*/
+.center span{
+    display: block;
+    font-size: 16px;
+    margin: 0 3% 0 auto;
+
+}/*class_style*/
+.center span:nth-child(1){
+    display: block;
+    font-size: 25px;
+    margin: 0 45% 0 auto;
+
+}/*class_style*/
+.center span:nth-child(2){
+    display: block;
+    font-size: 16px;
+    margin: 3% 3% 3% 0;
+}/*class_style*/
+<!-- -->
+@font-face {
+    font-family: 'IRANSansWeb';
+    src: url('fonts/ttf/IRANSansWeb.ttf');
+}
