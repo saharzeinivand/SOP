@@ -10,6 +10,8 @@ body {
     font-size: larger;
     text-align: right;
     font-family: "IRANSansWeb", sans-serif;
+    padding: 5%;
+
 }
 span{
     display: block;
