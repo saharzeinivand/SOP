@@ -27,7 +27,7 @@ span:nth-child(1){
 span:nth-child(2){
     display: block;
     font-size: 20px;
-    margin:0 0 0 3%;
+    margin:0 0 3% 0 ;
 }/*class_style*/
 <!-- -->
 @font-face {
