@@ -23,7 +23,6 @@ span{
 span:nth-child(1){
     display: block;
     font-size: 25px;
-    text-align: center;
 
 }/*class_style*/
 span:nth-child(2){
